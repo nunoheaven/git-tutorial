@@ -1,4 +1,5 @@
 # Git Tuorial
 
-Efeature-A
+- feature-A
 - fix-B
+- feature-C
